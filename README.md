@@ -5,11 +5,11 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - ⚡ Fun fact: ...
+- 😄 Pronouns: he/him
 -->
 - 🌱 I’m currently learning JS & Vue
 - 💬 Ask me about anything
 - 📫 How to reach me: george.st.petersburg@gmail.com
-- 😄 Pronouns: he/him
 
 ![HaroldSP's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaroldSP&show_icons=true&theme=transparent)
 
