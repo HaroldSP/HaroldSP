@@ -11,6 +11,6 @@
 - 📫 How to reach me: george.st.petersburg@gmail.com
 - 😄 Pronouns: he/him
 
-![HaroldSP's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaroldSP&show_icons=true&theme=tokyonight)
+![HaroldSP's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaroldSP&show_icons=true&theme=transparent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaroldSP&layout=donut&hide=Makefile,CMake)](https://github.com/HaroldSP/github-readme-stats)
