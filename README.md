@@ -13,6 +13,4 @@
 
 ![HaroldSP's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaroldSP&show_icons=true&theme=tokyonight)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HaroldSP&repo=github-readme-stats)](https://github.com/HaroldSP/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaroldSP&layout=compact)](https://github.com/HaroldSP/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaroldSP&layout=donut&hide=Makefile,CMake)](https://github.com/HaroldSP/github-readme-stats)
